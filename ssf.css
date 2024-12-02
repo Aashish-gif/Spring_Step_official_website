@@ -1,0 +1,16 @@
+#header{
+    display: flex;
+    background-color: rgb(249, 238, 226);
+}
+#headerct{
+    margin-top: 7px;
+    margin-left: 480px;
+}
+#headersel{
+    display:flex;
+    margin-left: 350px;
+}
+#selector1{
+    background-color:rgb(249, 238, 226);
+    border: hidden;
+}
